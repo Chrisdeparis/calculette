@@ -1,0 +1,11 @@
+h1, p {
+  font-family: Lato;
+}
+
+#root {
+  display:flex;
+  text-align:center;
+  flex-direction: column;
+  justify-content: center;
+  height:100vh;
+}
